@@ -1,0 +1,4 @@
+baseURL = 'https://erichsu.github.io'
+languageCode = 'en-us'
+title = "Eric's Blog"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
