@@ -1,0 +1,16 @@
+theme:
+  - ananke
+
+baseURL: https://erichsu.github.io
+languageCode: en-us
+title: Eric's Blog
+params:
+  ananke_socials:
+  - name: twitter
+    url: https://twitter.com/erichsu_tw
+  - name: github
+    url: https://github.com/erichsu
+  - name: linkedin
+    url: https://www.linkedin.com/in/tingyaohsu
+  - name: medium
+    url: https://medium.com/@erichsu_tw
